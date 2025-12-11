@@ -7,7 +7,7 @@ dch = {}  # PRAŽNJENJE BATERIJE
 soe = {}  # STANJE NAPUNJENOSTI BATERIJE
 x = {}   # BINARNA VARIJABLA: PUNJENJE / PRAŽNJENJE
 
-# KREIRANJE MODELA (pretpostavljam da ti treba)
+# KREIRANJE MODELA (ne znam još koji je)
 model = gp.Model("baterija")
 
 # UČINKOVITOST PUNJENJA I PRAŽNJENJA
