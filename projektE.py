@@ -5,7 +5,7 @@ from gurobipy import GRB
 ch = {}   # PUNJENJE BATERIJE
 dch = {}  # PRAŽNJENJE BATERIJE
 soe = {}  # STANJE NAPUNJENOSTI BATERIJE
-x = {}    # BINARNA VARIJABLA: PUNJENJE / PRAŽNJENJE
+x = {}   # BINARNA VARIJABLA: PUNJENJE / PRAŽNJENJE
 
 # KREIRANJE MODELA (pretpostavljam da ti treba)
 model = gp.Model("baterija")
